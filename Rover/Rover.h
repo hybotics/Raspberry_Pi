@@ -31,10 +31,10 @@
 #define VOLTAGE_MIN1	100	// 10 volts is the min that we will allow...
 
 
-#define PAN_MIN      750    // Min Pan 
+#define PAN_MIN      750    // Min Pan
 #define PAN_MAX      2250   // Max Pan
 #define TILT_MIN     750    // Max tilt value
-#define TILT_MAX     2250   // Min ... 
+#define TILT_MAX     2250   // Min ...
 #define ROTATE_MIN   750
 #define ROTATE_MAX   2250
 
